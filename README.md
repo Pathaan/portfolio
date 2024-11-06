@@ -8,13 +8,10 @@
 - Diploma in Engineering, Medical Laboratory Technology | Sheikhpara Abdur Rahaman Memorial Polytechnic (_August 2018_)
 
 ## Work Experience
-**Data Science Internship (_July 2024 - October 2024_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Science Internship @ Upskill Campus and Uniconverge Technologies Pvt. Ltd. (_July 2024 - October 2024_)**
+- Conducted research on crop and weed detection systems to develop a precision spraying solution, reducing pesticide waste by selectively targeting weeds.
+- Applied YOLO algorithm and OpenCV in Python for object detection tasks, enhancing model efficiency in agricultural applications.
+- Gained hands-on experience in machine learning, deep learning, statistics, and data science, utilizing them to address real-world problems in sustainable agriculture.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
