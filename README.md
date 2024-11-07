@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Aspirant
 
 #### Technical Skills: Python, SQL, R, Power BI, Machine Learning
 
